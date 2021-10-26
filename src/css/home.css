@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+
+.field {
+    justify-content: center;
+    display: flex;
+    border: 2px;
+    border-color: blue;
+}
+
+.input {
+    color: black;
+}
